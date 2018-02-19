@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Template for node apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr1tterp0wer/nodeApp.git"
+  },
+  "author": "Christopher Stenqvist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cr1tterp0wer/nodeApp/issues"
+  },
+  "homepage": "https://github.com/cr1tterp0wer/nodeApp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
